@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MusicList</string>
+    <string name="button_addSong">Add Song</string>
+    <string name="button_updateSong">Update Song</string>
+    <string name="hint_songTitle">Song Title</string>
+    <string name="hint_songDescription">Artist </string>
+    <string name="menu_saveSong">Add New Song</string>
+    <string name="menu_cancelSong">Cancel</string>
+    <string name="enter_song_title"> Please enter a Song Title </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_song_image">Select song image</string>
+    <string name="change_song_image">Change song image</string>
+    <string name="menu_deleteSong">Delete</string>
+    <string name="button_addAudio">Add Audio</string>
+    <string name="select_song_audio">Select song audio</string>
+    <string name="change_song_audio">Change song audio</string>
+    <string name="playButton">Play Media</string>
+    <string name="pauseButton">Pause Media</string>
+    <string name="stopButton">Stop Media</string>
+    <string name="startMediaPlayerButton">Start Media Player</string>
+    <string name="menu_sortSong">Sort</string>
+    <string name="title_activity_login">MusicList</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_return">Return to previous page</string>
+
+
+
+</resources>

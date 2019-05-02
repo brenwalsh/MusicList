@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Item"/>
+    <item
+            android:visible="true"
+            android:id="@+id/media_return"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="@string/menu_return"
+            app:showAsAction="never"
+    />
+
+
+</menu>
